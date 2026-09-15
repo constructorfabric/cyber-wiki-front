@@ -4,7 +4,7 @@ trigger: always_on
 
 # CyberWiki Frontend Rules
 
-Based on [FrontX AI Guidelines](https://github.com/cyberfabric/frontx/tree/develop/.ai).
+Based on [FrontX AI Guidelines](https://github.com/constructorfabric/gears-frontx/tree/develop/.ai).
 
 ## AI WORKFLOW (REQUIRED)
 
