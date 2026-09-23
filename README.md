@@ -6,7 +6,7 @@ review-friendly knowledge base. Pairs with [`cyber-wiki-back`](../cyber-wiki-bac
 (Django) on `http://localhost:8888`.
 
 Built on **React 19 + Vite 6 + TypeScript 5** and the in-house
-[`@cyberfabric/react`](https://github.com/cyberfabric/frontx) framework
+[`@cyberfabric/react`](https://github.com/constructorfabric/frontx) framework
 (event-driven Flux: Action → Event → Effect → Slice).
 
 ## Quick start
